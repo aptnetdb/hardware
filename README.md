@@ -1,1 +1,1 @@
-## IoT, mobile, Embedded systems, etc.
+## IoT & Embedded systems
