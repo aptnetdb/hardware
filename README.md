@@ -1,1 +1,1 @@
-## IoT & Embedded systems
+## IoT
